@@ -1,3 +1,5 @@
 Elephant
 Tiger
 Penguin
+Lion
+Zebra
